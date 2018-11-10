@@ -4,10 +4,10 @@
     <id>ProcessWrapper</id>
     <version>$version$</version>
     <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <authors>Lucas Christinson</authors>
+    <owners>Lucas Christinson</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
+    <description>Wrapper for System.Diagnostics.Process to ease unit testing</description>
     <copyright>Copyright 2018</copyright>
 	<projectUrl>https://github.com/ljchristinson/ProcessWrapper</projectUrl>
 	<licenseUrl>https://github.com/ljchristinson/ProcessWrapper/blob/master/LICENSE</licenseUrl>
