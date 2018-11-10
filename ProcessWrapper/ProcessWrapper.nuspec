@@ -13,6 +13,6 @@
 	<licenseUrl>https://github.com/ljchristinson/ProcessWrapper/blob/master/LICENSE</licenseUrl>
   </metadata>
   <files>
-    <file src="bin\$configuration$\$id$.dll" target="lib\net45" />    
+    <file src="bin\$configuration$\ProcessWrapper.dll" target="lib\net40" />    
   </files>
 </package>
