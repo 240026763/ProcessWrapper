@@ -40,8 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IProcessInfo.cs" />
     <Compile Include="IProcessUtility.cs" />
+    <Compile Include="ProcessInfo.cs" />
     <Compile Include="ProcessUtility.cs" />
+    <Compile Include="ProcessUtilityFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
